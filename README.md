@@ -1,4 +1,4 @@
 # ExercicioProlog
 
-# Curso Engenharia de Software
-# Alunos: Matheus Tambosi e Vitor Adriel
+Curso Engenharia de Software<br>
+Alunos: Matheus Tambosi e Vitor Adriel
